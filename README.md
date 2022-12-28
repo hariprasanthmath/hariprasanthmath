@@ -21,12 +21,14 @@ Here are some ideas to get you started:
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;)
   <br>
    ## 👨🏻‍💻 About Me:
+   
+ <p>  As a MERN stack engineer, I have experience designing, building, and maintaining web applications using the MERN stack. My strong understanding of JavaScript and familiarity with web development concepts such as HTML, CSS, and APIs allows me to create dynamic and interactive user interfaces using React. I also have experience working with Node.js and Express to build server-side applications and APIs, as well as with databases like MongoDB to store and retrieve data.
+
+I am passionate about staying up to date with the latest technologies and best practices in web development, and am always looking for opportunities to learn and grow as a developer. In my past projects, I have demonstrated the ability to work independently and as part of a team, and have a strong attention to detail and a dedication to delivering high-quality code. I am excited to bring my skills and experience to new challenges and projects as a MERN stack engineer.</p>
 
 <img  src="https://raw.githubusercontent.com/gauravsapkal/gauravsapkal/main/code.gif" height="280px"  align="right" />
 
 - 🙋‍♂️ All about me **[My Website](https://hariprasanth.netlify.app/)**
-
-- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning `MERN Stack`
 
