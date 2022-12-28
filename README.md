@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img  src="https://raw.githubusercontent.com/gauravsapkal/gauravsapkal/main/code.gif" height="280px"  align="right" />
 
-- 🙋‍♂️ All about me **[My Website](https://papaya-daffodil-d755c4.netlify.app/)**
+- 🙋‍♂️ All about me **[My Website](https://hariprasanth.netlify.app/)**
 
 - 🔭 I’m currently working on ...
 
