@@ -28,7 +28,7 @@ I am passionate about staying up to date with the latest technologies and best p
 
 <img  src="https://raw.githubusercontent.com/gauravsapkal/gauravsapkal/main/code.gif" height="280px"  align="right" />
 
-- 🙋‍♂️ All about me **[My Website](https://hariprasanth.netlify.app/)**
+- 🙋‍♂️ All about me **[My Website](https://hariprasanthmath.github.io/portfolio/)**
 
 - 🌱 I’m currently learning `MERN Stack`
 
